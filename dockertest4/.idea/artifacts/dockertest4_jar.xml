@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="dockertest4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dockertest4_jar</output-path>
+    <root id="root">
+      <element id="archive" name="dockertest4.jar">
+        <element id="module-output" name="dockertest4" />
+        <element id="module-test-output" name="dockertest4" />
+      </element>
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Maven: junit:junit:4.13.2" />
+    </root>
+  </artifact>
+</component>
